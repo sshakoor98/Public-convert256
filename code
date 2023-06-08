@@ -8,7 +8,7 @@ import re, json, requests, sys, os.path, json, configparser, argparse, getpass
 #config = Configuration()
 #config.verify_ssl = False
 
-vt_api = "d92c93faf90cb9888eeb9b4847ef47611fc71a6fb1387b0291b062388a8996d6"
+vt_api = "[REDACTED]"
 
 # Setting the CLI like options
 parser = argparse.ArgumentParser(formatter_class=argparse.RawDescriptionHelpFormatter)
