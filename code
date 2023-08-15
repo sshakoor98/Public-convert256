@@ -1,4 +1,4 @@
-#!/support/virtualenvs/u42-overwatch-client-python3.9.12/bin/python
+#!/support/bin/python3.11
 
 import re, json, requests, sys, os.path, json, configparser, argparse, getpass
 
