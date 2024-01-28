@@ -22,7 +22,7 @@ ashareefdeen@shorts (v3)-> convert256 -f hashes.txt
 ## Instructions: ##
 1. Execute the below command to download:
 ```
-wget https://raw.spring.paloaltonetworks.com/ashareefdeen/convert256/main/convert256
+wget https://raw.githubusercontent.com/sshakoor98/Public-convert256/main/convert256.py
 ```
 2. Move the convert256 to /bin directory and give it executable permissions:
 ```
