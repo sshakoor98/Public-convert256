@@ -1,5 +1,5 @@
 # **convert256** #
-This is a simple python script that takes SHA1 and/or MD5 hashes then "converts" them to SHA256 by making API calls to VirusTotal.
+This is a simple python script that takes SHA1 and/or MD5 hashes of malicious files in Bulk and then "converts" them to SHA256 by making API calls to VirusTotal.
 
 _Note:_
 - _Only a file must be provided as an input as shown in the example below._ 
