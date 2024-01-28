@@ -4,7 +4,7 @@ This is a simple python script that takes SHA1 and/or MD5 hashes then "converts"
 _Note:_
 - _Only a file must be provided as an input as shown in the example below._ 
 - _This requires a sample file to be pre-emptively created. eg: hashes.txt._
-- _All of the instructions provided below are in the assumption that you already have the 'panw' file setup with the necessary API keys. VirusTotal API key is **mandatory** for this script to work._
+- _All of the instructions provided below are in the assumption that you already have the VirusTotal API key.
 
 EXAMPLE:
 ```
