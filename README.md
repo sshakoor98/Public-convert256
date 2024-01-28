@@ -17,6 +17,50 @@ ad602039c6f0237d4a997d5640e92ce5e2b3bba3
 13037b749aa4b1eda538fda26d6ac41c8f7b1d02d83f47b0d187dd645154e033
 
 ashareefdeen@shorts (v3)-> convert256 -f hashes.txt
+
+Associated SHA256 hash(es):
+--------------------------
+
+1) 736a4cfad1ed83a6a0b75b0474d5e01a3a36f950 ---> 13037b749aa4b1eda538fda26d6ac41c8f7b1d02d83f47b0d187dd645154e033
+
+2) 85851e09b368ebba90f5d922cd77f348 ---> N/A
+
+3) f6e755e2af0231a614975d64ea3c8116 ---> N/A
+
+4) 56a504a34d2cfbfc7eaa2b68e34af8ad ---> 9309fb2a3f326d0f2cc3f2ab837cfd02e4f8cb6b923b3b2be265591fd38f4961
+
+5) ad602039c6f0237d4a997d5640e92ce5e2b3bba3 ---> N/A
+
+6) 13037b749aa4b1eda538fda26d6ac41c8f7b1d02d83f47b0d187dd645154e033 is already SHA256.
+
+
+MD5 Converted:
+-------------
+9309fb2a3f326d0f2cc3f2ab837cfd02e4f8cb6b923b3b2be265591fd38f4961
+
+
+SHA1 Converted:
+--------------
+13037b749aa4b1eda538fda26d6ac41c8f7b1d02d83f47b0d187dd645154e033
+
+
+MD5/SHA1 with no coverage (N/A):
+-------------------------------
+85851e09b368ebba90f5d922cd77f348
+f6e755e2af0231a614975d64ea3c8116
+ad602039c6f0237d4a997d5640e92ce5e2b3bba3
+
+
+Already present in list:
+------------------------
+13037b749aa4b1eda538fda26d6ac41c8f7b1d02d83f47b0d187dd645154e033
+
+
+Invalid Hash(es):
+------------------------
+
+
+
 ```
 
 ## Instructions: ##
