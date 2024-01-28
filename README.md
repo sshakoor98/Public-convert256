@@ -24,12 +24,12 @@ ashareefdeen@shorts (v3)-> convert256 -f hashes.txt
 ```
 wget https://raw.spring.paloaltonetworks.com/ashareefdeen/convert256/main/convert256
 ```
-3. Move the convert256 to /bin directory and give it executable permissions:
+2. Move the convert256 to /bin directory and give it executable permissions:
 ```
 mv convert256 ~/bin
 chmod +x ~/bin/convert256
 ```
-4. Congratulations! You can now be stress free from those annoying bulk MD5 and SHA1 hashes:
+3. Congratulations! You can now be stress free from those annoying bulk MD5 and SHA1 hashes:
 ```
 convert256 -f <hash_file_list>
 ```
