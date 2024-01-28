@@ -8,7 +8,7 @@ _Note:_
 
 EXAMPLE:
 ```
-ashareefdeen@shorts (v3)-> cat hashes.txt
+ashareefdeen@kali-> cat hashes.txt
 736a4cfad1ed83a6a0b75b0474d5e01a3a36f950
 85851e09b368ebba90f5d922cd77f348
 f6e755e2af0231a614975d64ea3c8116
@@ -16,7 +16,7 @@ f6e755e2af0231a614975d64ea3c8116
 ad602039c6f0237d4a997d5640e92ce5e2b3bba3
 13037b749aa4b1eda538fda26d6ac41c8f7b1d02d83f47b0d187dd645154e033
 
-ashareefdeen@shorts (v3)-> convert256 -f hashes.txt
+ashareefdeen@kali-> convert256 -f hashes.txt
 
 Associated SHA256 hash(es):
 --------------------------
@@ -58,7 +58,6 @@ Already present in list:
 
 Invalid Hash(es):
 ------------------------
-
 
 
 ```
