@@ -20,8 +20,7 @@ ashareefdeen@shorts (v3)-> convert256 -f hashes.txt
 ```
 
 ## Instructions: ##
-1. Login to the SHORTS server.
-2. Execute the below command to download:
+1. Execute the below command to download:
 ```
 wget https://raw.spring.paloaltonetworks.com/ashareefdeen/convert256/main/convert256
 ```
