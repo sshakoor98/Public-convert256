@@ -33,3 +33,7 @@ chmod +x ~/bin/convert256
 ```
 convert256 -f <hash_file_list>
 ```
+4. Alternatively, you may directly invoke the python script:
+```
+python convert256.py -f <hash_file_list>
+```
